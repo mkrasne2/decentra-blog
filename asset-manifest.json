@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/decentra-blog/static/css/main.0ebc25bc.css",
+    "main.js": "/decentra-blog/static/js/main.64ad4570.js",
+    "static/media/polygonlogo.png": "/decentra-blog/static/media/polygonlogo.6cde40a9b9119621eb2b.png",
+    "index.html": "/decentra-blog/index.html",
+    "main.0ebc25bc.css.map": "/decentra-blog/static/css/main.0ebc25bc.css.map",
+    "main.64ad4570.js.map": "/decentra-blog/static/js/main.64ad4570.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ebc25bc.css",
+    "static/js/main.64ad4570.js"
+  ]
+}

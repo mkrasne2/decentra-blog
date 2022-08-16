@@ -11,4 +11,4 @@ I created this fun application that allows anyone to view and mint their own blo
 
 When you mint a blog post, the smartcontract stores the blog title, blog description, and a unique SVG associated with that blog post directly on-chain without using IPFS. Obviously this is not the most cost-efficient option, but I thought it would be cool.
 
-Try it for yourself: https://mkrasne2.github.io/web3-blog/#/
+Try it for yourself: https://mkrasne2.github.io/decentra-blog/
